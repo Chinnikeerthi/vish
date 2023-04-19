@@ -11,5 +11,8 @@ elif (a>=51 and a<=60):
     print('D')
 elif (a>=41 and a<=50):
     print('E')
+elif (a>=35 and a<=40):
+    print('E')     
+
 else:
-    print('fail')                        
+    print('fail')  
